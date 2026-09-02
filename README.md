@@ -1,6 +1,6 @@
 # Photo Album App - EPQ Project
 
-A photo-sharing iOS app for weddings, built as an A-level Extended Project Qualification (EPQ).
+A photo-sharing iOS app for events, built as an A-level Extended Project Qualification (EPQ).
 
 ## Project Overview
 
