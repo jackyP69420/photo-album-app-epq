@@ -15,7 +15,7 @@ This project investigates how intuitive UI design and user experience principles
 
 ## Project Structure
 
-- `WeddingAlbum/` — Xcode project and app code
+- `PhotoAlbum/` — Xcode project and app code
 - `documentation/` — EPQ research and development documentation
 
 ## Documentation
